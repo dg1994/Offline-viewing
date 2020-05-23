@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MoEngageApp</string>
+    <string name="label_articles">ARTICLES</string>
+    <string name="label_offline">Offline</string>
+    <string name="label_offline_articles">Offline Articles</string>
+    <string name="default_download_channel_id" translatable="false">download_default_channel</string>
+    <string name="label_select_author">Select Author</string>
+    <string name="label_apply">Apply</string>
+    <string name="label_cancel">Cancel</string>
+</resources>
